@@ -3,3 +3,5 @@
 - Untracked -> Modified
 - Staging area (Index) (Added)
 - Working copy (Commited)
+
+On regarde la différence entre les deux versions de fichier.md
