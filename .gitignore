@@ -1,0 +1,7 @@
+fichier_ignorer.md
+
+# Ignorer un dossier
+dossier_ignorer/
+
+# Ignorer tous les fichiers .txt d'un dossier
+dossier_txt/*.txt
