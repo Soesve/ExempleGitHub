@@ -19,3 +19,15 @@
 5/ Revenir sur le 3eme commit et sauvegarder le fichier dans cette état
 6/ Supprimer les 3 derniers commits
 7/ Faire un git log, on doit avoir 3 commit
+
+## Exo 3
+
+1/ Créer une nouvelle branche et basculer dessus
+2/ Modifier un fichier et faire un commit
+3/ Retourner sur master et fusionner la branche
+4/ Supprimer la branche
+5/ Créer une nouvelle branche et basculer dessus
+6/ Modifier un fichier et faire un commit
+7/ Retourner sur master et modifier le même fichier et faire un commit
+8/ Fusionner les branches et resoudre le conflit
+9/ Faire un commit final
