@@ -8,3 +8,5 @@ On regarde la différence entre les deux versions de fichier.md
 Modification pour voir le head se détacher
 
 Ici commence le code sur la nouvelle branche newBranch
+
+Modification sur la branche master !
