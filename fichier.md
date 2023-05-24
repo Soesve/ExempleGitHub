@@ -11,3 +11,5 @@ Ici commence le code sur la nouvelle branche newBranch
 
 Modification sur la branche master !
 Ici j'ai fais une modif sur branchConflit
+
+Modification sur la branche exo3
