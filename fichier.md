@@ -13,3 +13,4 @@ Modification sur la branche master !
 Ici j'ai fais une modif sur branchConflit
 
 Modification sur la branche exo3
+Modification sur la branche exo3bis
